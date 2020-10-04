@@ -1,0 +1,40 @@
+.row-header{
+            margin:0px auto;
+            padding:0px auto;
+            
+}
+.row-content{
+        margin:0px auto;
+        padding: 40px 0px;
+        min-height:300px;
+}
+.footer{
+        margin: 0px auto;
+        padding: 20px 0px;
+        background-color: rgba(105, 131, 122, 0.637);
+}
+.jumbotron{
+        margin: 0px auto;
+        padding: 70px 50px;
+        background-color: rgb(181, 127, 231);
+        color:floralwhite;
+        border-radius: 0px;
+    }
+address{
+        margin:0px;
+        font-size: 80%;
+        color: rgb(12, 11, 11);
+}
+.test{
+        background-color:rgba(0, 0, 0, 0.384);
+        padding:50px 15px;
+        text-align: center;
+}
+body{
+        padding:50px 0px 0px 0px;
+        z-index: 0;
+}
+.navbar-dark{
+       
+        background-color: rgb(133, 34, 226);
+}
