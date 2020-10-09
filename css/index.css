@@ -38,3 +38,10 @@ body{
        
         background-color: rgb(133, 34, 226);
 }
+.tab-content{
+        border-left:2px solid #ddd;
+        border-bottom: 2px solid #ddd;
+        border-right: 2px solid #ddd;
+        padding:15px;
+        background-color: #fcfcfcb9;
+}
